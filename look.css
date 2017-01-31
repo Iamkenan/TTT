@@ -1,0 +1,12 @@
+body,html,.container1,.row, .col-xs-8{
+  height: 100%;
+}
+
+.square{
+  height:250px;
+  width: 250px;
+}
+
+.col-xs-4{
+  background-color: black;
+}
